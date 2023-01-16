@@ -24,12 +24,8 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "MS Office",
+      "keywords": [ "word, powerpoint, excel" ]
     }
   ],
   "education": [
@@ -55,9 +51,7 @@
         "Manage to the teachig skills",
         "Manage to know basic MS Office,etc skills"
       ]
-    },
-   
-    
+    }
   ],
   "volunteer": [
     {
@@ -67,20 +61,15 @@
       "startDate": "2019-10-08",
       "endDate": "2020-10-08",
       "summary": "Lead some foriegn students to learn English by taking tours",
-      "highlights": [
-        "Lead a group of member of 60 students",
-        
+      "highlights": [ "Lead a group of 60 students"
       ]
-    },
-    
+    }
   ],
   "awards": [
     {
       "title": "DEAN List",
       "date": "2021-01 to 2021 05",
       "awarder": "UHM DEAN office",
-      "summary": "Scholarships awarded for entire school years."
+      "summary": "Scholarships awarded for entire school years"
     }
-   
- 
-
+    ],
