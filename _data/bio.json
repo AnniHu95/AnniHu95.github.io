@@ -34,8 +34,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "MIS",
-      "studyType": "Undergrad student
-      ",
+      "studyType": "B.S.",
       "startDate": "2021-08-20",
       "endDate": "Present",
       "courses": [
@@ -80,4 +79,32 @@
         
       ]
     },
-]
+],
+  {
+      "organization": "QBGY",
+      "website": "",
+      "position": "Animal Protection teaching",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Help people in the countryside learn protect and adapt living with wild animals"
+       
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "DEAN List",
+      "date": "2021-01 to 2021 05",
+      "awarder": "UHM DEAN office",
+      "summary": "Scholarships awarded for entire school years"
+    }
+    ],
+"references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
