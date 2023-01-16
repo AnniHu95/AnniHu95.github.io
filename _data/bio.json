@@ -5,14 +5,12 @@
     "picture": "https://github.com/kambergjohnson.png",
     "email": "annihu@hawaii.edu",
     "phone": "808-392-9077",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://annihu95.github.io",
     "summary": "I am a student of MIS major. And looking forward to apply for MIS program for gradschool.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "annihu95", "url": "http://github.com/Annihu95" },
+      { "network": "instagram", "username": "annihu", "url": "http://instagram.com/annihu" }
     ]
   },
   "interests": [
@@ -82,51 +80,4 @@
         
       ]
     },
-    {
-      "organization": "QBGY",
-      "website": "",
-      "position": "Animal Protection teaching",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Help people in the countryside learn protect and adapt living with wild animals"
-       
-      ]
-    }
-  ],
-  
-  "work": [
-    {
-      "company": "UH Manoa ICS Department",
-      "position": "TA",
-      "website": "",
-      "startDate": "2021-08-21",
-      "endDate": "Present",
-      "summary": "Teaching Assistant",
-      "highlights": [
-        "Manage to the teachig skills",
-        "Manage to know basic MS Office,etc skills"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "ELI",
-      "website": "",
-      "position": "Group leader",
-      "startDate": "2019-10-08",
-      "endDate": "2020-10-08",
-      "summary": "Lead some foriegn students to learn English by taking tours",
-      "highlights": [ "Lead a group of 60 students"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "DEAN List",
-      "date": "2021-01 to 2021 05",
-      "awarder": "UHM DEAN office",
-      "summary": "Scholarships awarded for entire school years"
-    }
-    ],
+]
