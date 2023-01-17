@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay 0
+type: essay
 title: "Why I choose MIS major"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-13
