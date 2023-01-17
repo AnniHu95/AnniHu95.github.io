@@ -1,12 +1,12 @@
 ---
 layout: essay
-type: essay
-title: "The difficult things will always be difficult"
+type: essay 0
+title: "Why I choose MIS major"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-13
 published: true
 labels:
-  - Engineering
+  - 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
