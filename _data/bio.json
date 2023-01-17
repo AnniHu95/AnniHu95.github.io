@@ -2,7 +2,7 @@
   "basics": {
     "name": "Anni Hu",
     "label": "Student",
-    "picture": img/profolio.jpeg ,
+    "picture": ["img/profolio.jpeg"],
     "email": "annihu@hawaii.edu",
     "phone": "808-392-9077",
     "website": "https://annihu95.github.io",
