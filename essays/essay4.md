@@ -19,28 +19,28 @@ Third of all, check changes before making the next change or step. I have this h
 
 Lastly, make comment to notes, sometime during labs, I will turn codes into comments which it is required to delete, and I will turn it into comments and leave a note of what that code is about or its function.
 
-2.	I need to work on the following to improve my programming skills:
+2:	I need to work on the following to improve my programming skills:
 
 I need to comment why did I put this code here, or how does this code help generate the rest of the codes.
 I need to review some of the previous work so that I can understand better, and review the readings.
 
-3.	I have learned a lot from doing WODs and I can do them without copying the screencast:
+3:	I have learned a lot from doing WODs and I can do them without copying the screencast:
 
 I barely copy from the screencast when doing WODs, I will always make sure myself doing WODs without screencasts, but I will learn from the screencast, instead of just figuring out by myself.
 
-4.	The labs have help me learn and I am able to complete them with confidence:
+4:	The labs have help me learn and I am able to complete them with confidence:
 
 The labs helps me learn, when the professor give more instructions, and explanations, I am able to complete the labs by myself, but I don’t feel confident when the professor couldn’t finish explaining labs during class, and we had to figure it out by ourselves, then finish the part on our own.
 
-5.	I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+5:	I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
 
 I learned a lot from Assignment 1, and it feels like I finished a lab by my own, except I had help from the professor, and I started it on scratch, and I didn’t know what to do at first, after getting a bit help, I knew what to do. For Assignment 2, I feel like the same as Assignment1, is that we need to be prepared before assignment 2 instead just work on it on our own when we are not as that knowledge.
 
-6.	I think the class can be improved to help my learning in the following ways:
+6:	I think the class can be improved to help my learning in the following ways:
 
 May be if we can finish the labs, then it would be better. Because this course has pre-request, which is ICS 101, and in that course, HTML is included, so I think if we could have longer time for the lately labs, then we won’t be as struggled as now.
 
-7.	What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+7:	What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
 WODs, defiantly helps, because it’s similar to a summary of the labs.
 
 Labs, for sure, we need the professor to explain and guide us.
