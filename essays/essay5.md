@@ -11,6 +11,7 @@ Lastly, they can click on the confirm purchase button, to confirm their purchase
 Links:
 https://github.com/AnniHu95/ITM-352-repo/tree/main/Hu_Anni_Assignment2
 http://itm-vm.shidler.hawaii.edu:8080/
+
 2.	What did you learn from this assignment?
 I learned that how important the process of pre-design is, because we should have an idea of what exactly we want our webpage looks like, and how it works and functions, so pre-design and outlining the things that needs to be done would help save time as well. 
 About coding, I feel like I have improved a lot and understand many of the chapters this semester, such as algorithms, and server and processing, data storing, and having a general idea of how things work between server and client sides.
