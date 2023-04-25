@@ -1,3 +1,13 @@
+---
+layout: essay
+type: essay
+title: "E5"
+# All dates must be YYYY-MM-DD format!
+date: 2023-04-24
+published: true
+labels:
+  - essay
+---
 1.	Provide a brief introduction to the assignment along with a link to this page for further details.
 Introduction of Assignment 2:
 My assignment is about a cloth store that is based on Korean style and fashion. But for customers from outside of Korea, they couldn’t find any stores that sells Korean style of fashion and even couldn’t find the exact same cloth as the celebrity, which they like. Our store providing an opportunity and options for these people to wear celebrity like and to wear the fashion they appreciate. And the product will directly come from Korea, that is why its shipment is expensive, but the cloth itself is not as expensive. I named it as “Kitty” that came from Korean Trend, which short for KT. 
