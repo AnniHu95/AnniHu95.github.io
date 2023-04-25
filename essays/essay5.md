@@ -15,13 +15,11 @@ There is a home page where I display the products and the customers can purchase
 After the customer done choosing products and entering the amount they wanted, it will lead them to the login page, which obviously you need a membership in order to finish your purchase. 
 Here we divide customers into two parts, one is those who has a membership, they may login by entering the correct email address and password. One is those who doesn’t have a membership and needs to sign up or register for, if so they and click on the register button to lead them to the registration page, after entering the registration email address, their full name for user name, and the password, they may not change their user name and email address from here on, however, they may successfully login and go the next step of purchasing. 
 And now they will be in the invoice page, in here they will see what product they choose and purchase, and the shipment, tax, and the total to spend. This page also tells them they had successfully logged in by saying “Welcome to ‘their name’s invoice page”, and their information, the last time they logged in and how many time as well.
-
 They can also change the password here, by clicking the change password button, and in the change password page, as mentioned they will not be able to change their user name and email address, but they can only change password, and click on the save button, it will bring them back to the invoice page. 
 Lastly, they can click on the confirm purchase button, to confirm their purchase. Which lead them to the confirmation page, telling them they had successfully log out by saying “their name have successfully logged out”, and their information, and the last time they logged in and how time as well.
 Links:
 https://github.com/AnniHu95/ITM-352-repo/tree/main/Hu_Anni_Assignment2
 http://itm-vm.shidler.hawaii.edu:8080/
-
 2.	What did you learn from this assignment?
 I learned that how important the process of pre-design is, because we should have an idea of what exactly we want our webpage looks like, and how it works and functions, so pre-design and outlining the things that needs to be done would help save time as well. 
 About coding, I feel like I have improved a lot and understand many of the chapters this semester, such as algorithms, and server and processing, data storing, and having a general idea of how things work between server and client sides.
