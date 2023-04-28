@@ -11,16 +11,16 @@ labels:
 1.	Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 2.	Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
 I will use session cookies to store the information of the users, and the products they selected to purchase from the products pages.
-‘{
+"{
 "OUTER":[
   {
     "name": "Z-line",
     "price": 23.00,
     "image": "images/Z-line.JPG",
     "quantity_available": 150
-  },
+  },]
 …
-}’
+}"
 This is an example of my code, and I am using an array to display my products.
 3.	How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
 For security purpose, my invoice button will not show up in the pages before log in page, and I used “if” statements to protect the page.
