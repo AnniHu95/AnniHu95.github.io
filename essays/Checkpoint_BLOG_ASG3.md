@@ -30,4 +30,5 @@ For security purpose some of the buttons will not show at a certain point, and t
 I am not working with partners.
 6.	How are you approaching Assignment 3 differently than Assignment 2?
 I think will make it more detailed, as my store is about selling clothes, so if I could add the sizes for the products, it would be more reasonable.
-7.	A link for my BLOG: https://youtu.be/J92P_bJc4KA
+7.	A link for my BLOG: [https://youtu.be/J92P_bJc4KA](https://youtu.be/phYTf7PqcmM)
+
