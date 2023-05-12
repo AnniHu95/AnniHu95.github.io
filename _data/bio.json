@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Anni Hu",
+    "label": "Student",
+    "picture": "https://github.com/AnniHu95/annihu95.github.io/blob/ac9928f7c7ff760c24caad1c47b6cd2246994c9e/img/profolio.jpeg?raw=true",
+    "email": "annihu@hawaii.edu",
+    "phone": "808-392-9077",
+    "website": "https://annihu95.github.io",
+    "summary": "I am a student of MIS major. And looking forward to apply for MIS program for gradschool.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "annihu95", "url": "http://github.com/Annihu95" },
+      { "network": "instagram", "username": "annihu", "url": "https://www.instagram.com/winnie_the_ni/" }
+    ]
+  },
+  "interests": [
+    { "name": "Sleeping" },
+    { "name": "Math" },
+    { "name": "Teaching" },
+    { "name": "Travel" },
+    { "name": "Risk taker" }
+  ],
+  "skills": [
+    {
+      "name": "Teaching",
+      "keywords": [ "Teaching" ]
+    },
+    {
+      "name": "MS Office",
+      "keywords": [  "Word Powerpoint Excel" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "MIS",
+      "studyType": "B.S.",
+      "startDate": "2021-08-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa ICS Department",
+      "position": "TA",
+      "website": "",
+      "startDate": "2020-08-01",
+      "endDate": "Present",
+      "summary": "Teaching skills",
+      "highlights": [
+        "Teaching students of some basic computer technology"
+      ]
+    },
+    {
+      "company": "Farmecy",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Help design a better cashing service"
+        
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "LIC",
+      "website": "",
+      "position": "Leader",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Lead students learn English",
+      "highlights": [
+        "Lead a group of 60 students know about Hawaii and English"
+        
+      ]
+    },
+  {
+      "organization": "QBGY",
+      "website": "",
+      "position": "Animal Protection teaching",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Help people in the countryside learn protect and adapt living with wild animals"
+       
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "DEAN List",
+      "date": "2021-01 to 2021 05",
+      "awarder": "UHM DEAN office",
+      "summary": "Scholarships awarded for entire school years"
+    }
+    ],
+"references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
